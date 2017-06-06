@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body bgcolor="#C0C0C0">
-<style>
 
-</style>
 </head>
 <body>
 
