@@ -1,7 +1,7 @@
 <html>
 <body bgcolor="#C0C0C0">
 <head>
-<style type=text/css>
+<style media="screen" type="text/css">
 *{
 font-style: Georgia;
 }
