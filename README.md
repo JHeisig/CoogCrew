@@ -1,7 +1,6 @@
-<html bgcolor="GAINSBORO">
+<html>
 <body bgcolor="#C0C0C0">
-
-
+<bgcolor: gainsboro>
 <body>
 
 <div class="container">
@@ -9,7 +8,7 @@
 <header>
    <h1>
 <center>
-<img src="https://s7.postimg.org/6vpaafouj/CCLogo.jpg" alt="Coog Crew Logo"  width="1200" height="250" style="float left">
+<img src="https://s7.postimg.org/6vpaafouj/CCLogo.jpg" alt="Coog Crew Logo"  width="1500" height="280" style="float left">
 </center>
 </h1>
 </header>
