@@ -2,6 +2,9 @@
 <body bgcolor="#C0C0C0">
 <head>
 <style type=text/css>
+*{
+font-style: Georgia;
+}
 div.container {
     width: 100%;
     border: 1px solid grey;
