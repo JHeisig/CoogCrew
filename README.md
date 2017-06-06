@@ -10,7 +10,7 @@
 <header>
    <h1>
 <center>
-<img src="file:///C:/Users/Joseph%20Heisig/Downloads/CCLogo.webp" alt="Coog Crew Logo"  width="1200" height="250" style="float left">
+<img src="https://s7.postimg.org/6vpaafouj/CCLogo.jpg" alt="Coog Crew Logo"  width="1200" height="250" style="float left">
 </center>
 </h1>
 </header>
