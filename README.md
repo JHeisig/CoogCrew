@@ -1,8 +1,7 @@
-<!DOCTYPE html>
-<html>
+<html bgcolor="GAINSBORO">
 <body bgcolor="#C0C0C0">
 
-</head>
+
 <body>
 
 <div class="container">
@@ -20,7 +19,7 @@
 <td bgcolor="#">
 
 <tr>
-<td scope="row"><a href="#">Donate</a></Donate</td>
+<td scope="row"><a href="#">Donate</a>
 </tr>
 
 <tr>
@@ -47,7 +46,7 @@
 			<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/18268456_10209365351910032_4339901019942534278_n.jpg?oh=17d2dcd18e61841701e3d5e05d342810&oe=59AE4A8E" width="700" height="250" alt="Coog Crew Logo" />
 			<img src="https://www.edumaritime.net/images/stories/university-of-houston.png" width="200" height="250" alt="UH" />
 		</div>
-</article>
+
 
 <footer>Coog Crew University of Houston 2017</footer>
 
