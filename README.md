@@ -9,34 +9,72 @@
 <BODY LINK="Gainsboro">		<!--Link Color -->
 <BODY VLINK="Gainsboro">	<!--Visited Link Color -->		
 <BODY ALINK="Gainsboro">	<!--Active Link Color -->
-
+<!-- -->
 <h1>
 <center>
-<img src="https://s30.postimg.org/7wcwp6g8h/Coog_Crew.jpg" alt="Coog Crew Logo"  width="1200" height="250" style="float left">
+<img src="https://s30.postimg.org/7wcwp6g8h/Coog_Crew.jpg" alt="Coog Crew Logo"  width="1200" height="250" style="float left"> 
+<!--Header at top of the page, change with iamge url-->
 </center>
 </h1>
 
+Define Table	<TABLE></TABLE>	
+4.0*	Table Alignment	<TABLE ALIGN=LEFT|RIGHT|CENTER>	
+ 	Table Border	<TABLE BORDER></TABLE>	(either on or off)
+ 	Table Border	<TABLE BORDER=?></TABLE>	(you can set the value)
+ 	Cell Spacing	<TABLE CELLSPACING=?>	
+ 	Cell Padding	<TABLE CELLPADDING=?>	
+ 	Desired Width	<TABLE WIDTH=?>	(in pixels)
+ 	Width Percent	<TABLE WIDTH=%>	(percentage of page)
+4.0*	Table Color	<TABLE BGCOLOR="$$$$$$"></TABLE>	
+4.0	Table Frame	<TABLE FRAME=VOID|ABOVE|BELOW|HSIDES|LHS|RHS|
+VSIDES|BOX|BORDER></TABLE>
+4.0	Table Rules	<TABLE RULES=NONE|GROUPS|ROWS|COLS|ALL></TABLE>
+MS	Border Color	<TABLE BORDERCOLOR="$$$$$$"></TABLE>	
+MS	Dark Border	<TABLE BORDERCOLORDARK="$$$$$$"></TABLE>	
+MS	Light Border	<TABLE BORDERCOLORLIGHT="$$$$$$"></TABLE>	
+ 	Table Row	<TR></TR>	
+ 	Alignment	<TR ALIGN=LEFT|RIGHT|CENTER|MIDDLE|BOTTOM>
+ 	Table Cell	<TD></TD>	(must appear within table rows)
+ 	Alignment	<TD ALIGN=LEFT|RIGHT|CENTER VALIGN=TOP|MIDDLE|BOTTOM>
+ 	No linebreaks	<TD NOWRAP>	
+ 	Columns to Span	<TD COLSPAN=?>	
+ 	Rows to Span	<TD ROWSPAN=?>	
+4.0*	Desired Width	<TD WIDTH=?>	(in pixels)
+N3	Width Percent	<TD WIDTH="%">	(percentage of table)
+4.0*	Cell Color	<TD BGCOLOR="#$$$$$$">	
+ 	Header Cell	<TH></TH>	(same as data, except bold centered)
+ 	Alignment	<TH ALIGN=LEFT|RIGHT|CENTER|MIDDLE|BOTTOM>
+ 	No Linebreaks	<TH NOWRAP>	
+ 	Columns to Span	<TH COLSPAN=?>	
+ 	Rows to Span	<TH ROWSPAN=?>	
+4.0*	Desired Width	<TH WIDTH=?>	(in pixels)
+N3	Width Percent	<TH WIDTH="%">	(percentage of table)
+4.0*	Cell Color	<TH BGCOLOR="#$$$$$$">	
+4.0	Table Body	<TBODY>	
+4.0	Table Footer	<TFOOT></TFOOT>	(must come before THEAD>
+4.0	Table Header	<THEAD></THEAD>	
+ 	Table Caption	<CAPTION></CAPTION>	
+ 	Alignment	<CAPTION ALIGN=TOP|BOTTOM|LEFT|RIGHT>	
+4.0	Column	<COL></COL>	(groups column attributes)
+4.0	Columns Spanned	<COL SPAN=?></COL>	
+4.0	Column Width	<COL WIDTH=?></COL>	
+4.0	Width Percent	<COL WIDTH="%"></COL>	
+4.0	Group columns	<COLGROUP></COLGROUP>	(groups column structure)
+4.0	Columns Spanned	<COLGROUP SPAN=?></COLGROUP>	
+4.0	Group Width	<COLGROUP WIDTH=?></COLGROUP>	
+4.0	Width Percent	<COLGROUP WIDTH="%"></COLGROUP>
 
-https://s17.postimg.org/e5iurlebz/CCLogo_1.jpg
 
 
 
-<!DOCTYPE html>
-<html>
-<body bgcolor="#C0C0C0">
 
-</head>
-<body>
 
-<div class="container">
 
-<header>
-   <h1>
-<center>
-<img src="https://s30.postimg.org/7wcwp6g8h/Coog_Crew.jpg" alt="Coog Crew Logo"  width="1200" height="250" style="float left">
-</center>
-</h1>
-</header>
+
+
+
+
+
   
 <nav>
 <table style="width:100%" bgcolor="#808080" align="center" border="5">
