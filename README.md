@@ -18,12 +18,12 @@
 </h1>
 
 <TABLE align=center Border=5 BGCOLOR=FireBrick width=100% cellspacing="" Rules=Columns Bordercolordark=HoneyDew >
-<TH>Home</TH>
-<TH>About Us</TH>
-<TH>Join Us</TH>
-<TH>Members</TH>
-<TH>Calender</TH>
-<TH>Sponsors</TH>
+<TH align=center>Home</TH>
+<TH align=center>About Us</TH>
+<TH align=center>Join Us</TH>
+<TH align=center>Members</TH>
+<TH align=center>Calender</TH>
+<TH align=center>Sponsors</TH>
 </TABLE>		
 
 	
