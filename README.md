@@ -17,21 +17,17 @@
 </center>
 </h1>
 
-Define Table	<TABLE></TABLE>	
-4.0*	Table Alignment	<TABLE ALIGN=LEFT|RIGHT|CENTER>	
- 	Table Border	<TABLE BORDER></TABLE>	(either on or off)
- 	Table Border	<TABLE BORDER=?></TABLE>	(you can set the value)
- 	Cell Spacing	<TABLE CELLSPACING=?>	
- 	Cell Padding	<TABLE CELLPADDING=?>	
- 	Desired Width	<TABLE WIDTH=?>	(in pixels)
- 	Width Percent	<TABLE WIDTH=%>	(percentage of page)
-4.0*	Table Color	<TABLE BGCOLOR="$$$$$$"></TABLE>	
-4.0	Table Frame	<TABLE FRAME=VOID|ABOVE|BELOW|HSIDES|LHS|RHS|
-VSIDES|BOX|BORDER></TABLE>
-4.0	Table Rules	<TABLE RULES=NONE|GROUPS|ROWS|COLS|ALL></TABLE>
-MS	Border Color	<TABLE BORDERCOLOR="$$$$$$"></TABLE>	
-MS	Dark Border	<TABLE BORDERCOLORDARK="$$$$$$"></TABLE>	
-MS	Light Border	<TABLE BORDERCOLORLIGHT="$$$$$$"></TABLE>	
+<TABLE align=center Border=5 BGCOLOR=FireBrick width=100% cellspacing="" Rules=Columns Bordercolordark=HoneyDew >
+<TH>Home</TH>
+<TH>About Us</TH>
+<TH>Join Us</TH>
+<TH>Members</TH>
+<TH>Calender</TH>
+<TH>Sponsors</TH>
+</TABLE>		
+
+	
+	
  	Table Row	<TR></TR>	
  	Alignment	<TR ALIGN=LEFT|RIGHT|CENTER|MIDDLE|BOTTOM>
  	Table Cell	<TD></TD>	(must appear within table rows)
