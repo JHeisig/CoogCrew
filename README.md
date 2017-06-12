@@ -1,32 +1,4 @@
 <html>
-<header>
-<stlye>
-<FONT SIZE=4>			<!--Font Size(1-7) -->
-<FONT COLOR="Black">		<!--Font Color -->
-<FONT FACE="Georgia">		<!--Font -->
-<BODY BGCOLOR="FireBrick">	<!--Background Color -->	
-<BODY TEXT="Black">		<!--Body Text Color -->
-<BODY LINK="Gainsboro">		<!--Link Color -->
-<BODY VLINK="Gainsboro">	<!--Visited Link Color -->		
-<BODY ALINK="Gainsboro">	<!--Active Link Color -->
-<!-- -->
-<h1>
-<center>
-<img src="https://s30.postimg.org/7wcwp6g8h/Coog_Crew.jpg" alt="Coog Crew Logo"  width="1200" height="250" style="float left"> 
-<!--Header at top of the page, change with iamge url-->
-</center>
-</h1>
-
-
-
-
-<footer>Coog Crew University of Houston 2017</footer>
-
-
-
-
-<!DOCTYPE html>
-<html LANG="EN"> <!--IDENTIFIES LANGUAGE AS ENGLISH -->
 <head>
 <meta charset="utf-8">
 <TITLE> COOG CREW </TITLE>	<!--The Title on the top of a tab -->   
@@ -34,24 +6,24 @@
 <FONT SIZE=4>				<!--Font Size(1-7) -->
 <FONT COLOR="Black">		<!--Font Color -->
 <FONT FACE="Georgia">		<!--Font -->
-<BODY BGCOLOR="GAINSBORO">	<!--Background Color -->	
+<BODY BGCOLOR="AliceBlue">	<!--Background Color -->	
 <BODY TEXT="Black">			<!--Body Text Color -->
 <BODY LINK="Gainsboro">		<!--Link Color -->
 <BODY VLINK="Gainsboro">	<!--Visited Link Color -->		
 <BODY ALINK="Gainsboro">	<!--Active Link Color -->
+<html LANG="EN"> <!--IDENTIFIES LANGUAGE AS ENGLISH -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   
 
 <h1> <!--Header on the page -->
-	<center> <!--link below is image of the header -->
-		<img src="file:///C:/Users/Joseph%20Heisig/Downloads/CCLogo.webp" alt="Coog Crew Logo"  width="100%" height="210s" style="float left">
-	</center>
+<center> <!--link below is image of the header -->
+<img src="file:///C:/Users/Joseph%20Heisig/Downloads/CCLogo.webp" alt="Coog Crew Logo"  width="100%" height="210s" style="float left">
+</center>
 </h1>
 
-
-<body>
+<body bgcolor=AliceBlue>
 
 <nav class="navbar navbar-inverse" >
   <div class="container-fluid">
@@ -68,25 +40,27 @@
         <li><a href="#"></a></li>
         <li><a href="#"></a></li>
         <li><a href="#"></a></li>
-		<li><a href="#"></a></li>
+	<li><a href="#"></a></li>
         <li><a href="#"></a></li>
-		<li class="active"><a href="#">Home</a></li>
+	<li class="active"><a href="#">Home</a></li>
         <li><a href="#">About Us</a></li>
         <li><a href="#">Join Us</a></li>
         <li><a href="#">Members</a></li>
         <li><a href="#">Calendar</a></li>
-		<li><a href="#">Sponsors</a></li>
+	<li><a href="#">Sponsors</a></li>
     <div>
   </div>
-<div class="col-sm-8 text-left"> 
+<div class="col-sm-8 text-left" bgcolor=AliceBlue> 
       <h1>Announcements</h1>
-      <p>All Coog Crew announcements will go here</p>
+      <p>All Coog Crew announcements will go here<br> All announcements</p>
       <hr>
       <h3>Anything else we want to write</h3>
       <p>Can go under a secondary header</p>
     </div>
 
-
+<br>
+<br>
+<br>
 <div class="container">
 <div class="row">
   <div class="col-sm-8">
@@ -117,7 +91,7 @@
       </div>
 
 	  <div class="item">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS36-hyREmhvOfL3z2SwHvH3Uc7zyT8oJ_5FU2UWjHuv5nv874N"" alt="Library at UH ">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS36-hyREmhvOfL3z2SwHvH3Uc7zyT8oJ_5FU2UWjHuv5nv874N"  alt="Library at UH">
         <div class="carousel-caption">
           <h3>Coog Crew</h3>
           <p>Library at the University </p>
@@ -145,5 +119,5 @@
 
 
 
-<a class="twitter-timeline" data-lang="en" data-width="300" data-height="300" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a align=right class="twitter-timeline" data-lang="en" data-width="300" data-height="300" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
