@@ -3,9 +3,9 @@
 <meta charset="utf-8">
 <TITLE> COOG CREW </TITLE>	<!--The Title on the top of a tab -->   
 <link rel="stylesheet" href="CSS.css">	
-<FONT COLOR="Black">		<!--Font Color -->
+<FONT COLOR="white">		<!--Font Color -->
 <FONT FACE="Georgia">		<!--Font -->	
-<BODY TEXT="Black">			<!--Body Text Color -->
+<BODY TEXT="white">			<!--Body Text Color -->
 <BODY LINK="Gainsboro">		<!--Link Color -->
 <BODY VLINK="Gainsboro">	<!--Visited Link Color -->		
 <BODY ALINK="Gainsboro">	<!--Active Link Color -->
