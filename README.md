@@ -116,5 +116,6 @@
 <br>
 <br>
 <br>
+<div align="right">
 <a class="twitter-timeline" data-lang="en" data-width="300" data-height="300" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+</div>
