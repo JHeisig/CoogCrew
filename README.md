@@ -3,7 +3,6 @@
 <meta charset="utf-8">
 <TITLE> COOG CREW </TITLE>	<!--The Title on the top of a tab -->   
 <link rel="stylesheet" href="CSS.css">	
-<FONT SIZE=4>				<!--Font Size(1-7) -->
 <FONT COLOR="Black">		<!--Font Color -->
 <FONT FACE="Georgia">		<!--Font -->
 <BODY BGCOLOR="AliceBlue">	<!--Background Color -->	
@@ -116,8 +115,8 @@
 
 
 
-
-
-
-<a align=right class="twitter-timeline" data-lang="en" data-width="300" data-height="300" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<br>
+<br>
+<a class="twitter-timeline" data-lang="en" data-width="300" data-height="300" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
