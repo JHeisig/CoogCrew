@@ -9,6 +9,7 @@
 <BODY LINK="Gainsboro">		<!--Link Color -->
 <BODY VLINK="Gainsboro">	<!--Visited Link Color -->		
 <BODY ALINK="Gainsboro">	<!--Active Link Color -->
+<bgcolor color="LightGrey">
 <html LANG="EN"> <!--IDENTIFIES LANGUAGE AS ENGLISH -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -60,12 +61,12 @@
 <div class="container">
 <div class="row">
   <div class="col-sm-8">
-    <div id="myCarousel" class="carousel slide" data-ride="carousel" align="right">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" align="center">
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
-		<li data-target="#myCarousel" data-slide-to="2"></li>
+	<li data-target="#myCarousel" data-slide-to="2"></li>
       </ol>
 
       <!-- Wrapper for slides -->
