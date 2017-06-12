@@ -4,8 +4,7 @@
 <TITLE> COOG CREW </TITLE>	<!--The Title on the top of a tab -->   
 <link rel="stylesheet" href="CSS.css">	
 <FONT COLOR="Black">		<!--Font Color -->
-<FONT FACE="Georgia">		<!--Font -->
-<BODY BGCOLOR="AliceBlue">	<!--Background Color -->	
+<FONT FACE="Georgia">		<!--Font -->	
 <BODY TEXT="Black">			<!--Body Text Color -->
 <BODY LINK="Gainsboro">		<!--Link Color -->
 <BODY VLINK="Gainsboro">	<!--Visited Link Color -->		
@@ -21,8 +20,6 @@
 <img src="file:///C:/Users/Joseph%20Heisig/Downloads/CCLogo.webp" alt="Coog Crew Logo"  width="100%" height="210s" style="float left">
 </center>
 </h1>
-
-<body bgcolor=AliceBlue>
 
 <nav class="navbar navbar-inverse" >
   <div class="container-fluid">
@@ -49,7 +46,7 @@
 	<li><a href="#">Sponsors</a></li>
     <div>
   </div>
-<div class="col-sm-8 text-left" bgcolor=AliceBlue> 
+<div class="col-sm-8 text-left"> 
       <h1>Announcements</h1>
       <p>All Coog Crew announcements will go here<br> All announcements</p>
       <hr>
