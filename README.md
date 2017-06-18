@@ -6,10 +6,10 @@
 <FONT COLOR="white">		<!--Font Color -->
 <FONT FACE="Georgia">		<!--Font -->	
 <BODY TEXT="white">			<!--Body Text Color -->
-<BODY LINK="Gainsboro">		<!--Link Color -->
-<BODY VLINK="Gainsboro">	<!--Visited Link Color -->		
-<BODY ALINK="Gainsboro">	<!--Active Link Color -->
-<bgcolor color="LightSteelBlue">
+<BODY LINK="Red">		<!--Link Color -->
+<BODY VLINK="Red">	<!--Visited Link Color -->		
+<BODY ALINK="Red">	<!--Active Link Color -->
+<bgcolor color="Gainsboro">
 <html LANG="EN"> <!--IDENTIFIES LANGUAGE AS ENGLISH -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -18,7 +18,7 @@
 
 <h1> <!--Header on the page -->
 <center> <!--link below is image of the header -->
-<img src="file:///C:/Users/Joseph%20Heisig/Downloads/CCLogo.webp" alt="Coog Crew Logo"  width="100%" height="210s" style="float left">
+<img src="https://www.facebook.com/photo.php?fbid=10209365351910032&set=gm.1440742982613003&type=3" alt="Coog Crew Logo"  width="100%" height="210s" style="float left">
 </center>
 </h1>
 
@@ -123,4 +123,3 @@
 <a class="twitter-timeline" data-lang="en" data-width="300" data-height="300" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </aside>
-</body>
