@@ -9,7 +9,7 @@
 <BODY LINK="Gainsboro">		<!--Link Color -->
 <BODY VLINK="Gainsboro">	<!--Visited Link Color -->		
 <BODY ALINK="Gainsboro">	<!--Active Link Color -->
-<bgcolor color="LightGrey">
+<bgcolor color="LightSteelBlue">
 <html LANG="EN"> <!--IDENTIFIES LANGUAGE AS ENGLISH -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -22,6 +22,8 @@
 </center>
 </h1>
 
+
+<body bgcolor=lightsteelblue>
 <nav class="navbar navbar-inverse" >
   <div class="container-fluid">
     <div class="navbar-header">
@@ -121,3 +123,4 @@
 <a class="twitter-timeline" data-lang="en" data-width="300" data-height="300" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </aside>
+</body>
