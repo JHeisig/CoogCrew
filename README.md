@@ -18,7 +18,7 @@
 
 <h1> <!--Header on the page -->
 <center> <!--link below is image of the header -->
-<img src="https://www.facebook.com/photo.php?fbid=10209365351910032&set=gm.1440742982613003&type=3" alt="Coog Crew Logo"  width="100%" height="210s" style="float left">
+<img src="https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/18192353_10209365351910032_4339901019942534278_o.jpg?oh=4b885beeda2e6b7752de0e0305eede66&oe=59E36C0A" alt="Coog Crew Logo"  width="100%" height="210s" style="float left">
 </center>
 </h1>
 
