@@ -1,10 +1,8 @@
 <html>
 <head>
 <title> Bootstrap </title>
-	<link rel="stylesheet" href="style/main.css"
 <!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
 <!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
@@ -50,9 +48,6 @@
 </div>
 </head>
 
-<footer>
-Follow us
-</footer>
 
 
 <!-- Latest compiled and minified JavaScript -->
@@ -72,28 +67,7 @@ Follow us
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
  <style>
-  	/* Remove the navbar's default margin-bottom and rounded borders */ 
-    .navbar.nav {
-		margin-bottom: 0;
-		margin-top: 0;
-		border-radius: 0;
-		text-align: center;
-		
-	}
-    html, body {
-	margin: 0; 
-	padding: 0;
-}
-  .navbar.center .navbar-inner {
-    text-align: center;
-}
 
-.navbar.center .navbar-inner .nav {
-    display:inline-block;
-    float: none;
-    vertical-align: top;
-}	
-	
 	
 ul {
     list-style-type: none;
@@ -268,9 +242,6 @@ Follow us
 
 
 
-<br>
-<br>
-<br>
 <div class="container">
 <div class="row">
   <div class="col-sm-8">
