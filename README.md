@@ -96,6 +96,10 @@ li:last-child {
 
 <header>
 <body>
+
+
+
+<div class="ccnavbar">
 <div>
 <h1> <!--Header on the page -->
 <center> <!--link below is image of the header -->
@@ -103,9 +107,6 @@ li:last-child {
 </center>
 </h1>
 </div>
-
-
-<div class="ccnavbar">
 <h3>
 <ul>
   <li><a class="active" href="#home">Home</a></li>
@@ -120,7 +121,6 @@ li:last-child {
 
 
 
-
 <div class="col-sm-7 text-left"> 
       <h1>Announcements</h1>
       <p>All Coog Crew announcements will go here<br> All announcements</p>
@@ -131,9 +131,11 @@ li:last-child {
 
 <aside>
 <div align="right" class="pull-right">
-<a class="twitter-timeline" data-lang="en" data-width="300" data-height="300" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-lang="en" data-width="300" data-height="450" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </aside>
+
+
 <div class="container">
 <div class="row">
   <div class="col-sm-8">
