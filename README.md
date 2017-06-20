@@ -129,7 +129,11 @@ li:last-child {
       <p>Can go under a secondary header</p>
     </div>
 
-
+<aside>
+<div align="right" class="pull-right">
+<a class="twitter-timeline" data-lang="en" data-width="300" data-height="300" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</aside>
 <div class="container">
 <div class="row">
   <div class="col-sm-8">
@@ -174,11 +178,7 @@ li:last-child {
 </div>
 
 
-<aside>
-<div align="right" class="pull-right">
-<a class="twitter-timeline" data-lang="en" data-width="300" data-height="300" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-</aside>
+
 
 
 
