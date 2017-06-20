@@ -99,7 +99,7 @@ li:last-child {
 <div>
 <h1> <!--Header on the page -->
 <center> <!--link below is image of the header -->
-<img src="https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/18192353_10209365351910032_4339901019942534278_o.jpg?oh=4b885beeda2e6b7752de0e0305eede66&oe=59E36C0A" alt="Coog Crew Logo"  width="100%" height="210s" style="float left">
+<img src="https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/18192353_10209365351910032_4339901019942534278_o.jpg?oh=4b885beeda2e6b7752de0e0305eede66&oe=59E36C0A" alt="Coog Crew Logo"  width="1000s" height="210s" style="float left">
 </center>
 </h1>
 </div>
@@ -175,7 +175,7 @@ li:last-child {
 
 
 <aside>
-<div align="right">
+<div align="right" class="pull-right">
 <a class="twitter-timeline" data-lang="en" data-width="300" data-height="300" href="https://twitter.com/UHCougars">Tweets by UHCougars</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </aside>
