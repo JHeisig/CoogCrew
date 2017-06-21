@@ -60,7 +60,7 @@ li:last-child {
 	text-align:left;
 	margin: 0; 
 	padding: 0;
-	background-color: rgb(255, 0, 0);
+	background-color: C72121;
     margin-bottom: 0px !important;
     margin-left: 0px !important;
     margin-right: 0px !important;
