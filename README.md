@@ -220,8 +220,8 @@ Follow us on social media
 <br><a href="https://www.facebook.com/groups/1412103548810280/?ref=bookmarks">
   <img src="https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w300" alt="Facebook Link" style="width:50px;height:50px;border:0;">
 </a>
-
-<br><a href="https://twitter.com/">
+&nbsp;&nbsp; &nbsp;&nbsp;
+<a href="https://twitter.com/">
   <img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" alt="Facebook Link" style="width:50px;height:50px;border:0;">
 </a>
 
