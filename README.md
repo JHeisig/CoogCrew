@@ -160,7 +160,7 @@ li:last-child {
 </div>
 </aside>
 
-<iframe src="https://calendar.google.com/calendar/embed?src=9avd4ti88sb8fev1nu7e5eknc8%40group.calendar.google.com&ctz=America/Chicago" style="border: 0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=9avd4ti88sb8fev1nu7e5eknc8%40group.calendar.google.com&ctz=America/Chicago" style="border: 0" width="600" height="300" frameborder="0" scrolling="no"></iframe>
 
 <div class="container">
 <div class="row">
