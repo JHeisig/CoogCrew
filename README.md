@@ -103,7 +103,6 @@ li:last-child {
 <body>
 
 <div class="ccnavbar" >
-<div class=container-fluid>
 <h3> <!--Header on the page -->
 <center> <!--link below is image of the header -->
 <img src="https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/18192353_10209365351910032_4339901019942534278_o.jpg?oh=4b885beeda2e6b7752de0e0305eede66&oe=59E36C0A" alt="Coog Crew Logo"  width="1000s" height="210s" style="float left">
@@ -118,7 +117,7 @@ li:last-child {
 </ul>
 </h3>
 </div>
-</div>
+
 
 
 
@@ -128,12 +127,10 @@ li:last-child {
       Upcoming Events>
       <h4>
      <p>
-     <ul>
-<li><Friday, August 18th, 2017	7:00 PM	Women Soccer Houston vs Texas Southern		Home</li>
-<li>Sunday, August 20th, 2017	7:00 PM	Women Soccer Houston vs Northern Arizona	Home</li>
-<li>Sunday, August 27th, 2017	7:00 PM	Women Soccer Houston at Rice	Away</li>
-<li>Saturday, September 2nd, 2017	6:00 PM	 Football Houston at UTSA	Away</li>
-</ul>
+<br> August 18th, 2017	7:00 PM	Women Soccer Houston vs Texas Southern	Home
+<br> August 20th, 2017	7:00 PM	Women Soccer Houston vs Northern Arizona	Home
+<br> August 27th, 2017	7:00 PM	Women Soccer Houston at Rice	Away
+<br> September 2nd, 2017 6:00 PM Football Houston at UTSA	Away
      </p>
       <hr>
       <h3>Anything else we want to write</h3>
