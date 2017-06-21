@@ -185,7 +185,7 @@ li:last-child {
 
 
 
-
+<div class="container-fluid">
 <footer>
 <center>
 <h4>
@@ -206,4 +206,4 @@ Follow us on social Media
 
 Email: coogcrew@uh.edu
 </footer>
-
+</div>
