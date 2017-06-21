@@ -124,7 +124,17 @@ li:last-child {
 
 <div class="col-sm-7 text-left"> 
       <h1>Announcements</h1>
-      <p>All Coog Crew announcements will go here<br> All announcements</p>
+      <h4>
+      Upcoming Events>
+      <h4>
+     <p>
+     <ul>
+<li><Friday, August 18th, 2017	7:00 PM	Women Soccer Houston vs Texas Southern		Home</li>
+<li>Sunday, August 20th, 2017	7:00 PM	Women Soccer Houston vs Northern Arizona	Home</li>
+<li>Sunday, August 27th, 2017	7:00 PM	Women Soccer Houston at Rice	Away</li>
+<li>Saturday, September 2nd, 2017	6:00 PM	 Football Houston at UTSA	Away</li>
+</ul>
+     </p>
       <hr>
       <h3>Anything else we want to write</h3>
       <p>Can go under a secondary header</p>
@@ -186,7 +196,7 @@ li:last-child {
 
 
 
-<footer align=center>
+<footer>
 <center>
 <h4>
 Follow us on social Media
@@ -195,5 +205,15 @@ Follow us on social Media
 <a href="https://www.facebook.com/groups/1412103548810280/?ref=bookmarks">
   <img src="https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w300" alt="Facebook Link" style="width:50px;height:50px;border:0;">
 </a>
+
+<a href="https://www.facebook.com/groups/1412103548810280/?ref=bookmarks">
+  <img src="https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w300" alt="Facebook Link" style="width:50px;height:50px;border:0;">
+</a>
+
+<a href="https://twitter.com/">
+  <img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" alt="Facebook Link" style="width:50px;height:50px;border:0;">
+</a>
+
+Email: coogcrew@uh.edu
 </footer>
 
