@@ -72,7 +72,21 @@ li:last-child {
     padding-top: 0px !important;
     padding: 0px: !important;
 }
-		
+
+
+	
+.*{
+    margin-bottom: 0px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-top: 0px !important;
+    margin: 0px: !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-top: 0px !important;
+    padding: 0px: !important;
+}
 	/* Set black background color, red text and some padding */
     footer {
       background-color:Black;
