@@ -185,6 +185,11 @@ li:last-child {
 
 
 <footer>
-Follow us
+<h4>
+Follow us on social Media
+<h4>
+<a href="https://www.facebook.com/groups/1412103548810280/?ref=bookmarks">
+  <img src="https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w300" alt="Facebook Link" style="width:20px;height:20px;border:0;">
+</a>
 </footer>
 
