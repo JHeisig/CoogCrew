@@ -11,7 +11,7 @@
 <style>
 
 html body {
-    background-color: rgba(206,205,205);
+    background-color: rgba(206,205,205,1.0);
 
 }
 ul {
