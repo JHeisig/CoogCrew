@@ -60,7 +60,7 @@ li:last-child {
 	text-align:left;
 	margin: 0; 
 	padding: 0;
-	
+	background-color: rgb(255, 0, 0);
 }
 		
 	/* Set black background color, red text and some padding */
