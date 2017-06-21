@@ -126,10 +126,10 @@ li:last-child {
       <h4>
       Upcoming Events
       <h4>
-Aug. 18th,7:00 PM	Women Soccer UH vs Texas Southern	
-<br> Aug. 20th,7:00 PM	Women Soccer UH vs Northern Arizona	
-<br> Aug. 27th, 7:00 PM	Women Soccer UH at Rice	
-<br> Sept. 2nd, 6:00 PM Football UH at UTSA
+Aug. 18th, Women Soccer UH vs Texas Southern	
+<br> Aug. 20th,	Women Soccer UH vs Northern Arizona	
+<br> Aug. 27th, Women Soccer UH at Rice	
+<br> Sept. 2nd, Football UH at UTSA
       <h3>Anything else we want to write</h3>
       <p>Can go under a secondary header</p>
     </div>
