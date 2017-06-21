@@ -61,6 +61,16 @@ li:last-child {
 	margin: 0; 
 	padding: 0;
 	background-color: rgb(255, 0, 0);
+    margin-bottom: 0px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-top: 0px !important;
+    margin: 0px: !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-top: 0px !important;
+    padding: 0px: !important;
 }
 		
 	/* Set black background color, red text and some padding */
@@ -189,21 +199,16 @@ li:last-child {
 <footer>
 <center>
 <h4>
-Follow us on social Media
+Follow us on social media
 <h4>
 <center>
-<a href="https://www.facebook.com/groups/1412103548810280/?ref=bookmarks">
+<br><a href="https://www.facebook.com/groups/1412103548810280/?ref=bookmarks">
   <img src="https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w300" alt="Facebook Link" style="width:50px;height:50px;border:0;">
 </a>
 
-<a href="https://www.facebook.com/groups/1412103548810280/?ref=bookmarks">
-  <img src="https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w300" alt="Facebook Link" style="width:50px;height:50px;border:0;">
-</a>
-
-<a href="https://twitter.com/">
+<br><a href="https://twitter.com/">
   <img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" alt="Facebook Link" style="width:50px;height:50px;border:0;">
 </a>
 
-Email: coogcrew@uh.edu
-</footer>
-</div>
+<br> Email: coogcrew@uh.edu
+
