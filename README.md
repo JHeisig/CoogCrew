@@ -124,13 +124,13 @@ li:last-child {
 <div class="col-sm-7 text-left"> 
       <h1>Announcements</h1>
       <h4>
-      Upcoming Events>
+      Upcoming Events
       <h4>
      <p>
-<br> August 18th, 2017	7:00 PM	Women Soccer Houston vs Texas Southern	Home
-<br> August 20th, 2017	7:00 PM	Women Soccer Houston vs Northern Arizona	Home
-<br> August 27th, 2017	7:00 PM	Women Soccer Houston at Rice	Away
-<br> September 2nd, 2017 6:00 PM Football Houston at UTSA	Away
+<br> August 18th,7:00 PM	Women Soccer UH vs Texas Southern	
+<br> August 20th,7:00 PM	Women Soccer UH vs Northern Arizona	
+<br> August 27th, 7:00 PM	Women Soccer UH at Rice	
+<br> September 2nd, 6:00 PM Football UH at UTSA
      </p>
       <hr>
       <h3>Anything else we want to write</h3>
